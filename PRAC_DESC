@@ -1,1 +1,11 @@
-
+Steps
+1 - Install Telegram and search for the BotFather.
+2 - Inside the BotFather type the command /start
+3 - It will ask to create a bot,token,game etc.
+4 - Type the command /newbot
+5 - Enter the Bot name and the username for the bot which is created
+6 - API token is generated 
+7 - Create a python script and type the code for sending a message to the user
+8 - Run the script which will generate a chat id in the IDLE
+9 - In the URL of the browser type = https://api.telegram.org/bot1300125276:AAH3WY-1F2vYyloTtGdXj4rbr_zMO99e8t0/sendMessage?chat_id=1300125276&text=HelloAgain
+10 - This will send the message which is entered in the URL to the User.
